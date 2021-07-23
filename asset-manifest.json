@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.fb9867bd.chunk.css",
-    "main.js": "/static/js/main.80cf135d.chunk.js",
-    "main.js.map": "/static/js/main.80cf135d.chunk.js.map",
+    "main.css": "/static/css/main.91cc3e1a.chunk.css",
+    "main.js": "/static/js/main.6723661c.chunk.js",
+    "main.js.map": "/static/js/main.6723661c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.fd86eba6.js",
     "runtime-main.js.map": "/static/js/runtime-main.fd86eba6.js.map",
     "static/css/2.0853b8cd.chunk.css": "/static/css/2.0853b8cd.chunk.css",
-    "static/js/2.f9287f3c.chunk.js": "/static/js/2.f9287f3c.chunk.js",
-    "static/js/2.f9287f3c.chunk.js.map": "/static/js/2.f9287f3c.chunk.js.map",
+    "static/js/2.3cb803ad.chunk.js": "/static/js/2.3cb803ad.chunk.js",
+    "static/js/2.3cb803ad.chunk.js.map": "/static/js/2.3cb803ad.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.0853b8cd.chunk.css.map": "/static/css/2.0853b8cd.chunk.css.map",
-    "static/css/main.fb9867bd.chunk.css.map": "/static/css/main.fb9867bd.chunk.css.map",
-    "static/js/2.f9287f3c.chunk.js.LICENSE.txt": "/static/js/2.f9287f3c.chunk.js.LICENSE.txt",
+    "static/css/main.91cc3e1a.chunk.css.map": "/static/css/main.91cc3e1a.chunk.css.map",
+    "static/js/2.3cb803ad.chunk.js.LICENSE.txt": "/static/js/2.3cb803ad.chunk.js.LICENSE.txt",
     "static/media/HPS.27bfb028.jpg": "/static/media/HPS.27bfb028.jpg",
     "static/media/R_Verde.447e5fc9.png": "/static/media/R_Verde.447e5fc9.png",
     "static/media/arrow-down-green.d2afaa21.svg": "/static/media/arrow-down-green.d2afaa21.svg",
@@ -25,6 +25,7 @@
     "static/media/intestino.59db5793.png": "/static/media/intestino.59db5793.png",
     "static/media/linkedin.5abb8db3.svg": "/static/media/linkedin.5abb8db3.svg",
     "static/media/logo_verde.91200a3c.png": "/static/media/logo_verde.91200a3c.png",
+    "static/media/logo_verde_letras.6f909b1f.png": "/static/media/logo_verde_letras.6f909b1f.png",
     "static/media/perfil.da31888d.jpg": "/static/media/perfil.da31888d.jpg",
     "static/media/stomach.892bdecf.png": "/static/media/stomach.892bdecf.png",
     "static/media/tape-measure.5bd12e66.png": "/static/media/tape-measure.5bd12e66.png",
@@ -33,8 +34,8 @@
   "entrypoints": [
     "static/js/runtime-main.fd86eba6.js",
     "static/css/2.0853b8cd.chunk.css",
-    "static/js/2.f9287f3c.chunk.js",
-    "static/css/main.fb9867bd.chunk.css",
-    "static/js/main.80cf135d.chunk.js"
+    "static/js/2.3cb803ad.chunk.js",
+    "static/css/main.91cc3e1a.chunk.css",
+    "static/js/main.6723661c.chunk.js"
   ]
 }
