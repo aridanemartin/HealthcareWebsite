@@ -1,25 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.91cc3e1a.chunk.css",
-    "main.js": "/static/js/main.6723661c.chunk.js",
-    "main.js.map": "/static/js/main.6723661c.chunk.js.map",
+    "main.css": "/static/css/main.7744fa76.chunk.css",
+    "main.js": "/static/js/main.4c5600cd.chunk.js",
+    "main.js.map": "/static/js/main.4c5600cd.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.fd86eba6.js",
     "runtime-main.js.map": "/static/js/runtime-main.fd86eba6.js.map",
     "static/css/2.0853b8cd.chunk.css": "/static/css/2.0853b8cd.chunk.css",
-    "static/js/2.3cb803ad.chunk.js": "/static/js/2.3cb803ad.chunk.js",
-    "static/js/2.3cb803ad.chunk.js.map": "/static/js/2.3cb803ad.chunk.js.map",
+    "static/js/2.5113ff64.chunk.js": "/static/js/2.5113ff64.chunk.js",
+    "static/js/2.5113ff64.chunk.js.map": "/static/js/2.5113ff64.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.0853b8cd.chunk.css.map": "/static/css/2.0853b8cd.chunk.css.map",
-    "static/css/main.91cc3e1a.chunk.css.map": "/static/css/main.91cc3e1a.chunk.css.map",
-    "static/js/2.3cb803ad.chunk.js.LICENSE.txt": "/static/js/2.3cb803ad.chunk.js.LICENSE.txt",
+    "static/css/main.7744fa76.chunk.css.map": "/static/css/main.7744fa76.chunk.css.map",
+    "static/js/2.5113ff64.chunk.js.LICENSE.txt": "/static/js/2.5113ff64.chunk.js.LICENSE.txt",
     "static/media/HPS.27bfb028.jpg": "/static/media/HPS.27bfb028.jpg",
     "static/media/R_Verde.447e5fc9.png": "/static/media/R_Verde.447e5fc9.png",
     "static/media/arrow-down-green.d2afaa21.svg": "/static/media/arrow-down-green.d2afaa21.svg",
     "static/media/article0.2b229fc8.jpg": "/static/media/article0.2b229fc8.jpg",
     "static/media/article1.1952ab3c.jpg": "/static/media/article1.1952ab3c.jpg",
+    "static/media/article2.7f0607e3.jpg": "/static/media/article2.7f0607e3.jpg",
+    "static/media/article3.29a9af93.jpg": "/static/media/article3.29a9af93.jpg",
     "static/media/cardenalherreralogo.ebbdceaf.svg": "/static/media/cardenalherreralogo.ebbdceaf.svg",
     "static/media/complutense.20560ac6.png": "/static/media/complutense.20560ac6.png",
     "static/media/doctoraliawhite.932f1c0f.png": "/static/media/doctoraliawhite.932f1c0f.png",
+    "static/media/foto1.7e834481.jpg": "/static/media/foto1.7e834481.jpg",
+    "static/media/foto2.72c49e0c.jpg": "/static/media/foto2.72c49e0c.jpg",
     "static/media/freseniuskabi.89dc4050.svg": "/static/media/freseniuskabi.89dc4050.svg",
     "static/media/instagram.95f85b82.svg": "/static/media/instagram.95f85b82.svg",
     "static/media/intestino.59db5793.png": "/static/media/intestino.59db5793.png",
@@ -34,8 +38,8 @@
   "entrypoints": [
     "static/js/runtime-main.fd86eba6.js",
     "static/css/2.0853b8cd.chunk.css",
-    "static/js/2.3cb803ad.chunk.js",
-    "static/css/main.91cc3e1a.chunk.css",
-    "static/js/main.6723661c.chunk.js"
+    "static/js/2.5113ff64.chunk.js",
+    "static/css/main.7744fa76.chunk.css",
+    "static/js/main.4c5600cd.chunk.js"
   ]
 }
